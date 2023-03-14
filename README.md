@@ -31,7 +31,7 @@
 
 ##### Example
 
-![Example 1](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Flexible Process Planning/Example 1.png)
+![](https://github.com/Xavier-MaYiMing/Flexible-Process-Planning/blob/main/Example%201.png)
 
 ```python
 if __name__ == '__main__':
@@ -88,7 +88,7 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![convergence curve](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Flexible Process Planning/convergence curve.png)
+![](https://github.com/Xavier-MaYiMing/Flexible-Process-Planning/blob/main/convergence%20curve.png)
 
 The SLHS converges at its 1,365-th iteration, and the global best value is 833. 
 
@@ -125,7 +125,7 @@ The SLHS converges at its 1,365-th iteration, and the global best value is 833.
 
 ##### The AND/OR-Example
 
-![The AND:OR network of Example 2](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Flexible Process Planning/The AND:OR network of Example 2.png)
+![](https://github.com/Xavier-MaYiMing/Flexible-Process-Planning/blob/main/The%20AND:OR%20network%20of%20Example%202.png)
 
 ##### Production cost minimization (FPPCostMinimization.ipynb)
 
@@ -167,7 +167,7 @@ The SLHS converges at its 1,365-th iteration, and the global best value is 833.
 
 ##### Example
 
-![Example 1](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Flexible Process Planning/Example 1.png)
+![](https://github.com/Xavier-MaYiMing/Flexible-Process-Planning/blob/main/Example%201.png)
 
 ##### Production cost minimization (FPPCostMinimization_01.ipynb)
 
