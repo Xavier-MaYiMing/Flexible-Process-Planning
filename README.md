@@ -121,7 +121,7 @@ The SLHS converges at its 1,365-th iteration, and the global best value is 833.
 
 ##### Example
 
-![Example 2](/Users/xavier/Desktop/Xavier Ma/个人算法主页/Flexible Process Planning/Example 2.png)
+![](https://github.com/Xavier-MaYiMing/Flexible-Process-Planning/blob/main/Example%202.png)
 
 ##### The AND/OR-Example
 
