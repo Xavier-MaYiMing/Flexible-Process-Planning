@@ -186,6 +186,10 @@ The SLHS converges at its 1,365-th iteration, and the global best value is 833.
 
 
 
+##### Example
+
+![](https://github.com/Xavier-MaYiMing/Flexible-Process-Planning/blob/main/Example%203.png)
+
 ##### Completion time minimization (FPPTimeMinimization_01.ipynb)
 
 | Sequence  | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   | 14   |
